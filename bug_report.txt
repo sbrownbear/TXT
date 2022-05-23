@@ -1,1 +1,8 @@
-
+1) ID
+2) Environment
+3) Description
+4) Severity
+5) Priority
+6) STR
+7) Actual_result
+8) Expexted_result
