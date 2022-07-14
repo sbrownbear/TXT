@@ -9,7 +9,7 @@ skill_8: Jira
 skill_9: Fiddler
 skill_10: Git/GitHub
 skill_11: SQL (Select, From, Where, Join)
-skill_12: JavaSript (основы)
+skill_12: JavaSript (Basic)
 skill_13: Postman
 skill_14: Jmeter
 skill_15: Terminal linux
